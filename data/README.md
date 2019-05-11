@@ -18,9 +18,11 @@ Propsed system design for water-and-forest-cover-surrveillance
 
 Identification and ranking of  illegal deforestation and water bodies encroachments 
 
-![alt text](images/img.png)
+![alt text](../images/img.png)
 
 UNet-based image segmentation to identify water and forest body proportion
+
+![alt text](../images/arch.png)
 
 ### Data for training and testing
 
