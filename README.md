@@ -30,9 +30,10 @@ UNet-based image segmentation to identify water and forest body proportion
 
 ![alt text](images/1.png)
 
+![alt text](images/res.png)
+
 ![alt text](images/2.png)
 
-![alt text](images/res.png)
 
 
 ### In pipeline for water-and-forest-cover-surrveillance
